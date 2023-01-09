@@ -18,7 +18,7 @@ Excel
 
 Education
 ---------
-
+Certificate of Higher Education Data Analysis
 2020-   (expected)
 :   **BS in Data Science**; Open University (Milton Keynes, United Kingdom)
 
