@@ -31,7 +31,7 @@ typeing
 
 Education
 ---------
-2021 **Certificate of Higher Education in Data Analysis**
+2021 ** Certificate of Higher Education in Data Analysis **
 2020-   (expected)
 :   **BS in Data Science**; Open University (Milton Keynes, United Kingdom)
 
