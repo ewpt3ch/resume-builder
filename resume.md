@@ -1,10 +1,9 @@
 Eric W Phillips
 ===============
-
+|   |   |
 | -------------------- |       -------------------- |
 | 4150 W 111th CIR     |           eric@ewpt3ch.dev |
 | Westminter, CO 80031 |                 linkdin |
-
 | USA                  |           3034351478 |
 | --------------------- |       -------------------- |
 
@@ -16,39 +15,7 @@ __________
 Use my data analysis skills that I obtained at Open University in a professional environment to support the growth of your business
 Apply my business process developement skills to an IT environment and help devops be a culture in your company.
 
-after education: Skills
-------
-tactical and strategic planning
-business analysis
-business process developement
-Python
-Flask
-Linux Arch, Debian
-Bash Shell
-Fish Shell
-Server Admin
-Excel
-SQL
-Minitab
-MS Office
-Git
-Javascript
-HTML
-CSS
-Docker
-Data entry
-10 key
-typeing
-
-move to position 4 after experience: Education
----------
-2021
-:    **Certificate of Higher Education in Data Analysis**; Open University (Milton Keynes, United Kingdom)
-
-2020-   (expected)
-:   **BS in Data Science**; Open University (Milton Keynes, United Kingdom)
-
-move to position 3: Experience
+Experience
 ----------
 
 JBL Logistics INC
@@ -83,3 +50,39 @@ Owner
 - Developed Payroll and financial analysis systems using python and Google Sheets. 
 - Created training systems that met DOT guidelines. 
 - I successfully grew the company to 3 full time drivers and then merged it with P R Delivery INC.
+
+Education
+---------
+2021
+:    **Certificate of Higher Education in Data Analysis**; Open University (Milton Keynes, United Kingdom)
+
+2020-   (expected)
+:   **BS in Data Science**; Open University (Milton Keynes, United Kingdom)
+
+move as many of these into a 'summary' paragraph. see Shanes linkdin profile
+
+Skills
+------
+tactical and strategic planning
+business analysis
+business process developement
+Python
+Flask
+Linux Arch, Debian
+Bash Shell
+Fish Shell
+Server Admin
+Excel
+SQL
+Minitab
+MS Office
+Git
+Javascript
+HTML
+CSS
+Docker
+Data entry
+10 key
+typeing
+
+
