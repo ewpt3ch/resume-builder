@@ -9,12 +9,17 @@ USA                                        3034351478
 
 Objective or Summary: take skills list and key words (results driven, finacialy oriented, problem solver, organized)
 --------------------
+Use my data analysis skills that I obtained at Open University in a professional environment to support the growth of your business
+Apply my business process developement skills to an IT environment and help devops be a culture in your company.
+
+
+Summary
+-------
+    
 
     started and ran a company for 20 years(business oriented, HR, developed business systems)
     use same motivational and skills that I aquired in running my own company and apply them to an entry level data analysis position
-__________
-Use my data analysis skills that I obtained at Open University in a professional environment to support the growth of your business
-Apply my business process developement skills to an IT environment and help devops be a culture in your company.
+
 
 Experience
 ----------
@@ -67,24 +72,25 @@ move as many of these into a 'summary' paragraph. see Shanes linkdin profile
 
 Skills
 ------
-tactical and strategic planning
-business analysis
-business process developement
-Python
-Flask
-Linux Arch, Debian
-Bash Shell
-Fish Shell
-Server Admin
-Excel
-SQL
-Minitab
-MS Office
-Git
-Javascript
-HTML
-CSS
-Docker
+- tactical and strategic planning
+- business analysis
+- business process developement
+- Python
+- Flask
+- Linux Arch, Debian
+- Bash Shell
+- Fish Shell
+- Server Admin
+- Excel
+- SQL
+- Minitab
+- MS Office
+- Git
+- Javascript
+- HTML
+- CSS
+- Docker
+
 Data entry
 10 key
 typeing
