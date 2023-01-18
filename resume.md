@@ -1,14 +1,15 @@
 Eric W Phillips
 ===============
-|   |   |
-| -------------------- |       -------------------- |
-| 4150 W 111th CIR     |           eric@ewpt3ch.dev |
-| Westminter, CO 80031 |           linkedin.com/in/ewpt3ch/ |
-| USA                  |           3034351478 |
-| --------------------- |       -------------------- |
+
+--------------------    -----------------------------
+4150 W 111th CIR                     eric@ewpt3ch.dev
+Westminter, CO 80031         linkedin.com/in/ewpt3ch/
+USA                                        3034351478
+--------------------    -----------------------------
 
 Objective or Summary: take skills list and key words (results driven, finacialy oriented, problem solver, organized)
 --------------------
+
     started and ran a company for 20 years(business oriented, HR, developed business systems)
     use same motivational and skills that I aquired in running my own company and apply them to an entry level data analysis position
 __________
@@ -19,8 +20,11 @@ Experience
 ----------
 
 JBL Logistics INC
+
 2019 - present
+
 Transportation company servicing FedEX Ground Contract
+
 IT, Data Analyst, Driver
 
 Responsibilities included:
@@ -56,7 +60,7 @@ Education
 2021
 :    **Certificate of Higher Education in Data Analysis**; Open University (Milton Keynes, United Kingdom)
 
-2020-   (expected)
+2020- 2026
 :   **BS in Data Science**; Open University (Milton Keynes, United Kingdom)
 
 move as many of these into a 'summary' paragraph. see Shanes linkdin profile
