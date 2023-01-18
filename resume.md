@@ -15,7 +15,39 @@ Apply my business process developement skills to an IT environment and help devo
 
 Summary
 -------
-    
+from Joe's linkdin
+
+Results driven, analytical, highly organized Mechanical Engineer with extensive in product Design and Development, Project Management, 21CFR 820.30 Design Controls, Verification Testing, Remediation to Current Standard, and Management.
+
+Verification SME within the Airways Sustaining Engineering Department.
+Write Test Protocols/Reports
+Collaborate with Design Quality, Regulator Affairs, and Clinical Affairs
+Develop Design Input requirements
+
+Lead cross-discipline (mechanical, electrical, software, manufacturing, sourcing) product development teams. Managed activities between engineering, manufacturing, sourcing/procurement, and third party suppliers to support New Product Introduction.
+
+Integrated COTS and custom hardware solutions with proprietary hardware and software offerings to develop strategies that increased product availability while reducing product costs.
+
+Experienced SolidWorks and Pro-E Wildfire user.
+
+Granted Eight Patents for Automated Tape Cartridge Library designs and Tape Drive designs. Two time StorageTek Technical Excellence Award recipient. Covidien Critical Difference Award recipient.
+
+Specialties:
+Verification & Validation Testing
+Design Controls
+Test Engineering
+Medical Devices
+Project Management
+New Product Introduction
+Product Design and Development
+Mechanism Design
+Machined Component Design
+Solidworks
+Pro-E
+Supplier Relations and Support Activities
+Engineering ManagementResults
+
+Highly motivated self starter that excels at finding organization in chaos. Used to all aspects of problem solving: defining, subdividing, and implementing solutions. Knows how to be quick at implementing solutions and itereating to find efficiencies.
 
     started and ran a company for 20 years(business oriented, HR, developed business systems)
     use same motivational and skills that I aquired in running my own company and apply them to an entry level data analysis position
@@ -34,9 +66,9 @@ IT, Data Analyst, Driver
 
 Responsibilities included:
 
-- Manage MDM for company iPads, technical support and training for iPads and JBL facing FedEX systems. 
-- Consult on annual negotiations with FedEX along with upkeep and redesign of Excel negotiation tools. 
-- Upkeep and redesign of Excel payroll tools. 
+- Manage MDM for company iPads, technical support and training for iPads and JBL facing FedEX systems.
+- Consult on annual negotiations with FedEX along with upkeep and redesign of Excel negotiation tools.
+- Upkeep and redesign of Excel payroll tools.
 - Train new employees on business software and business objectives and requirements.
 - Do deliveries as required.
 
@@ -55,9 +87,9 @@ My Small Business Company INC
 Transportation company servicing a FedEX Ground Contract
 Owner
 
-- From my position as a dock worker I successfully obtained a delivery contract and started this company. 
-- Developed Payroll and financial analysis systems using python and Google Sheets. 
-- Created training systems that met DOT guidelines. 
+- From my position as a dock worker I successfully obtained a delivery contract and started this company.
+- Developed Payroll and financial analysis systems using python and Google Sheets.
+- Created training systems that met DOT guidelines.
 - I successfully grew the company to 3 full time drivers and then merged it with P R Delivery INC.
 
 Education
