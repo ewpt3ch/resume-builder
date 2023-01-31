@@ -7,15 +7,51 @@ Westminter, CO 80031         linkedin.com/in/ewpt3ch/
 USA                                        3034351478
 --------------------    -----------------------------
 
-Objective
+Objective or Summary: take skills list and key words (results driven, finacialy oriented, problem solver, organized)
 --------------------
 Use my data analysis skills that I obtained at Open University in a professional environment to support the growth of your business
+Apply my business process developement skills to an IT environment and help devops be a culture in your company.
 
 
 Summary
 -------
+from Joe's linkdin
 
-Highly motivated self starter that excels at finding organization in chaos. Used to all aspects of problem solving: defining, subdividing, and implementing solutions. Knows how to be quick at implementing solutions and iterating to find efficiencies.
+Results driven, analytical, highly organized Mechanical Engineer with extensive in product Design and Development, Project Management, 21CFR 820.30 Design Controls, Verification Testing, Remediation to Current Standard, and Management.
+
+Verification SME within the Airways Sustaining Engineering Department.
+Write Test Protocols/Reports
+Collaborate with Design Quality, Regulator Affairs, and Clinical Affairs
+Develop Design Input requirements
+
+Lead cross-discipline (mechanical, electrical, software, manufacturing, sourcing) product development teams. Managed activities between engineering, manufacturing, sourcing/procurement, and third party suppliers to support New Product Introduction.
+
+Integrated COTS and custom hardware solutions with proprietary hardware and software offerings to develop strategies that increased product availability while reducing product costs.
+
+Experienced SolidWorks and Pro-E Wildfire user.
+
+Granted Eight Patents for Automated Tape Cartridge Library designs and Tape Drive designs. Two time StorageTek Technical Excellence Award recipient. Covidien Critical Difference Award recipient.
+
+Specialties:
+Verification & Validation Testing
+Design Controls
+Test Engineering
+Medical Devices
+Project Management
+New Product Introduction
+Product Design and Development
+Mechanism Design
+Machined Component Design
+Solidworks
+Pro-E
+Supplier Relations and Support Activities
+Engineering ManagementResults
+
+Highly motivated self starter that excels at finding organization in chaos. Used to all aspects of problem solving: defining, subdividing, and implementing solutions. Knows how to be quick at implementing solutions and itereating to find efficiencies.
+
+    started and ran a company for 20 years(business oriented, HR, developed business systems)
+    use same motivational and skills that I aquired in running my own company and apply them to an entry level data analysis position
+
 
 Experience
 ----------
