@@ -20,9 +20,7 @@ Highly motivated self starter that excels at finding organization in chaos. Used
 Experience
 ----------
 
-JBL Logistics INC
-
-2019 - present
+JBL Logistics INC 2019 - present
 
 Transportation company servicing FedEX Ground Contract
 
@@ -36,9 +34,10 @@ Responsibilities included:
 - Train new employees on business software and business objectives and requirements.
 - Do deliveries as required.
 
-P R Delivery INC
-2016 - 2019
+P R Delivery INC 2016 - 2019
+
 Tranportation company servicing FedEX Ground Contract
+
 Co-Owner
 
 - After succesfully merging two companies to meet FedEX requirements, negotiated contract rates and grew company from 6 full time employees and \$500K annual revenue at time of merger to 12 full time employees and \$1.2M annual revenue at time of sale.
@@ -46,9 +45,10 @@ Co-Owner
 - Navigated company through an unexpected material change in routing method that included a deployment of iPads to all vehicles. The deployment consisted of enrolling devices in MDM, obtaining license to routing software, testing the deployment, and training of staff over a 2 week time frame.
 - Sold the company in 2019.
 
-My Small Business Company INC
-2002 - 2016
+My Small Business Company INC 2002 - 2016
+
 Transportation company servicing a FedEX Ground Contract
+
 Owner
 
 - From my position as a dock worker I successfully obtained a delivery contract and started this company.
@@ -64,31 +64,7 @@ Education
 2020- 2026
 :   **BS in Data Science**; Open University (Milton Keynes, United Kingdom)
 
-move as many of these into a 'summary' paragraph. see Shanes linkdin profile
 
 Skills
 ------
-- tactical and strategic planning
-- business analysis
-- business process developement
-- Python
-- Flask
-- Linux Arch, Debian
-- Bash Shell
-- Fish Shell
-- Server Admin
-- Excel
-- SQL
-- Minitab
-- MS Office
-- Git
-- Javascript
-- HTML
-- CSS
-- Docker
-
-Data entry
-10 key
-typeing
-
-
+Knowledgeable in the use of Python, Excel, Minitab, MS Office, SQl to assist in business analysis. Able to use tactical or strategic planning to inform the developement of business processes. Use of Linux, Docker, Flask, Git, HTML, CSS to provide access to analysis results.
