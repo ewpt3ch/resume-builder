@@ -20,7 +20,7 @@ Highly motivated self starter that excels at finding organization in chaos. Used
 Experience
 ----------
 
-JBL Logistics INC 2019 - Oct 2025
+JBL Logistics INC 2019 - Nove 2026
 
 Transportation company servicing FedEX Ground Contract
 
