@@ -9,6 +9,7 @@ USA                                        3034351478
 
 Objective
 --------------------
+
 Use my data analysis skills that I obtained at Open University in a professional environment to support the growth of your business
 
 
@@ -58,13 +59,11 @@ Owner
 
 Education
 ---------
+
 2021
 :    **Certificate of Higher Education in Data Analysis**; Open University (Milton Keynes, United Kingdom)
 
-2020- 2026
-:   **BS in Data Science**; Open University (Milton Keynes, United Kingdom)
-
-
 Skills
 ------
+
 Knowledgeable in the use of Python, Excel, Minitab, MS Office, SQl to assist in business analysis. Able to use tactical or strategic planning to inform the developement of business processes. Use of Linux, Docker, Flask, Git, HTML, CSS to provide access to analysis results.
