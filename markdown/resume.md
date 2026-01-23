@@ -2,10 +2,10 @@ Eric W Phillips
 ===============
 
 | | |
-| :-------------------- | -----------------------------: |
-| 4150 W 111th CIR     |                eric@ewpt3ch.dev |
-| Westminter, CO 80031 |        linkedin.com/in/ewpt3ch/ |
-| USA                  |                      3034351478 |
+| :-------------------- | ------------------------------: |
+| 4150 W 111th CIR      |                eric@ewpt3ch.dev |
+| Westminter, CO 80031  |        linkedin.com/in/ewpt3ch/ |
+| USA                   |                      3034351478 |
 
 Objective
 --------------------
@@ -21,7 +21,7 @@ Highly motivated self starter that excels at finding organization in chaos. Used
 Experience
 ----------
 
-JBL Logistics INC 2019 - Nove 2026
+JBL Logistics INC Sep 2019 - Nov 2025
 
 Transportation company servicing FedEX Ground Contract
 
