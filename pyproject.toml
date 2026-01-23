@@ -1,7 +1,16 @@
 [project]
 name = "resume"
 version = "0.1.0"
-description = "Add your description here"
+description = "publishes my resume"
 readme = "README.md"
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "markdown-it-py>=4.0.0",
+    "pymupdf>=1.26.7",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.2",
+    "ruff>=0.14.14",
+]
