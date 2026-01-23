@@ -1,2 +1,3 @@
 pandoc_resume/
 publish/
+__pycache__
