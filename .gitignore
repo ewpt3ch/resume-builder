@@ -1,3 +1,4 @@
 pandoc_resume/
 publish/
 __pycache__
+ruff_cache
