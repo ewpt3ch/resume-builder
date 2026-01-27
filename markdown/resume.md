@@ -1,9 +1,8 @@
 Eric W Phillips
 ===============
 
-| | |
-| :-------------------- | ------------------------------: |
 | 4150 W 111th CIR<br>Westminter, CO 80031<br>USA | eric@ewpt3ch.dev<br>linkedin.com/in/ewpt3ch/<br>3034351478 |
+| :-------------------- | ------------------------------: |
 
 Objective
 --------------------
@@ -16,8 +15,9 @@ Summary
 
 Highly motivated self starter that excels at finding organization in chaos. Used to all aspects of problem solving: defining, subdividing, and implementing solutions. Knows how to be quick at implementing solutions and iterating to find efficiencies.
 
-Experience
+Work Experience
 ----------
+
 
 JBL Logistics INC Sep 2019 - Nov 2025
 
