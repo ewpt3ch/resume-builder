@@ -3,9 +3,7 @@ Eric W Phillips
 
 | | |
 | :-------------------- | ------------------------------: |
-| 4150 W 111th CIR      |                eric@ewpt3ch.dev |
-| Westminter, CO 80031  |        linkedin.com/in/ewpt3ch/ |
-| USA                   |                      3034351478 |
+| 4150 W 111th CIR<br>Westminter, CO 80031<br>USA | eric@ewpt3ch.dev<br>linkedin.com/in/ewpt3ch/<br>3034351478 |
 
 Objective
 --------------------
