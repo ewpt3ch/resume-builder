@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <title>{{ name }}</title>
     <style>
+        @page {
+          size: letter;
+          margin: 0.75in;
+        }
         body {
             font-family: Arial, sans-serif;
             max-width: 100ch; /* 100 characters max width */
