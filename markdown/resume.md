@@ -1,29 +1,40 @@
-Eric W Phillips
-===============
+<div id="contact">
+  <table id="contact-table">
+    <tr>
+      <td style="text-align: left">4150 W 111th CIR<br>Westminter, CO 80031<br>USA</td>
+      <td style="text-align: center"><h1 style="margin: 0;">Eric W Phillips</h1></td>
+      <td style="text-align: right">eric@ewpt3ch.dev<br>linkedin.com/in/ewpt3ch/<br>3034351478</td>
+    </tr>
+  </table>
+</div>
 
-| 4150 W 111th CIR<br>Westminter, CO 80031<br>USA | eric@ewpt3ch.dev<br>linkedin.com/in/ewpt3ch/<br>3034351478 |
-| :-------------------- | ------------------------------: |
+<div id="objective">
+  <h3>Objective</h3>
 
-Objective
---------------------
+Use my data analysis skills that I obtained at Open University in a professional environment to support the growth of your business.
+</div>
 
-Use my data analysis skills that I obtained at Open University in a professional environment to support the growth of your business
-
-
-Summary
--------
+<div id="summary">
+<h3>Summary</h3>
 
 Highly motivated self starter that excels at finding organization in chaos. Used to all aspects of problem solving: defining, subdividing, and implementing solutions. Knows how to be quick at implementing solutions and iterating to find efficiencies.
+</div>
 
-Work Experience
-----------
+<div id="experience">
+<h3>Work Experience</h3>
+  <table id="contact-table">
+    <tr>
+      <td style="text-align: left">IT, Data Analyst, Driver Trainer<br>Management Team</td>
+      <td style="text-align: center"><b>JBL Logistics INC</b><br>Broomfield, CO, USA</td>
+      <td style="text-align: right">Sep 2019 - Nov 2025</td>
+    </tr>
+  </table>
 
 
-JBL Logistics INC Sep 2019 - Nov 2025
 
 Transportation company servicing FedEX Ground Contract
 
-IT, Data Analyst, Driver
+
 
 Responsibilities included:
 
@@ -54,14 +65,16 @@ Owner
 - Developed Payroll and financial analysis systems using python and Google Sheets.
 - Created training systems that met DOT guidelines.
 - I successfully grew the company to 3 full time drivers and then merged it with P R Delivery INC.
+</div>
 
-Education
----------
+<div id="education">
+<h3>Education</h3>
 
-2021
-:    **Certificate of Higher Education in Data Analysis**; Open University (Milton Keynes, United Kingdom)
+2021:    **Certificate of Higher Education in Data Analysis**; Open University (Milton Keynes, United Kingdom)
+</div>
 
-Skills
-------
+<div id="skills">
+<h3>Skills</h3>
 
 Knowledgeable in the use of Python, Excel, Minitab, MS Office, SQl to assist in business analysis. Able to use tactical or strategic planning to inform the developement of business processes. Use of Linux, Docker, Flask, Git, HTML, CSS to provide access to analysis results.
+</div>

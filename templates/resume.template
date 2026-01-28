@@ -6,7 +6,7 @@
     <style>
         @page {
           size: letter;
-          margin: 0.75in;
+          margin: 0.5in;
         }
         body {
             font-family: Arial, sans-serif;
@@ -28,14 +28,7 @@
             text-align: left;
             padding: 8px;
             border-bottom: 1px solid #ddd;
-        }
-        th {
-            text-align: left;
-            padding: 8px;
-        }
-        td {
-            text-align: left;
-            padding: 8px;
+            vertical-align: top;
         }
         ul {
             padding-left: 20px;
