@@ -22,7 +22,7 @@ Highly motivated self starter that excels at finding organization in chaos. Used
 
 <div id="experience">
 <h3>Work Experience</h3>
-  <table id="contact-table">
+  <table id="experience-table">
     <tr>
       <td style="text-align: left">IT, Data Analyst, Driver Trainer<br>Management Team</td>
       <td style="text-align: center"><b>JBL Logistics INC</b><br>Broomfield, CO, USA</td>
@@ -30,11 +30,7 @@ Highly motivated self starter that excels at finding organization in chaos. Used
     </tr>
   </table>
 
-
-
 Transportation company servicing FedEX Ground Contract
-
-
 
 Responsibilities included:
 
@@ -44,23 +40,31 @@ Responsibilities included:
 - Train new employees on business software and business objectives and requirements.
 - Do deliveries as required.
 
-P R Delivery INC 2016 - 2019
+  <table id="experience-table">
+    <tr>
+      <td style="text-align: left">Owner</td>
+      <td style="text-align: center"><b>P R Delivery INC</b><br>Broomfield, CO, USA</td>
+      <td style="text-align: right"> 2016 - 2019</td>
+    </tr>
+  </table>
 
 Tranportation company servicing FedEX Ground Contract
-
-Co-Owner
 
 - After succesfully merging two companies to meet FedEX requirements, negotiated contract rates and grew company from 6 full time employees and \$500K annual revenue at time of merger to 12 full time employees and \$1.2M annual revenue at time of sale.
 - Developed a revenue analysis tool to project income and expenses using python and Google Sheets to aid in negotiating rates with FedEX.
 - Navigated company through an unexpected material change in routing method that included a deployment of iPads to all vehicles. The deployment consisted of enrolling devices in MDM, obtaining license to routing software, testing the deployment, and training of staff over a 2 week time frame.
 - Sold the company in 2019.
 
-My Small Business Company INC 2002 - 2016
+  <table id="experience-table">
+    <tr>
+      <td style="text-align: left">Owner</td>
+      <td style="text-align: center"><b>My Small Business Company, INC</b><br>Westminster, CO, USA</td>
+      <td style="text-align: right">2002 - 2016</td>
+    </tr>
+  </table>
 
-Transportation company servicing a FedEX Ground Contract
-
-Owner
-
+Tranportation company servicing FedEX Ground Contract
+ 
 - From my position as a dock worker I successfully obtained a delivery contract and started this company.
 - Developed Payroll and financial analysis systems using python and Google Sheets.
 - Created training systems that met DOT guidelines.
