@@ -26,3 +26,15 @@ steps:
     commands:
       - python src/main.py
 
+  - name: deploy
+    image: appleboy/drone-scp
+    settings:
+      host: ewpt3ch.dev
+      username: httpcd
+      key:
+        from_secret: ssh_deploy_key
+      port: 25213
+      target: /home/httpcd/resume
+      source: /publish/*
+      strip_components: 1
+      rm: false
