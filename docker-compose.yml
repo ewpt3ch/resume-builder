@@ -1,0 +1,11 @@
+services:
+  markdown-processor:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./markdown:/app/markdown:ro  # Read-only
+      - ./publish:/app/publish
+      - ./src:/app/src
+    environment:
+      - PYTHONUNBUFFERED=1
