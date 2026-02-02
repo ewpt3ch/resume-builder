@@ -7,7 +7,7 @@ steps:
     image: woodpeckerci/plugin-kaniko
     settings:
       registry: gitea.ewpt3ch.dev
-      repo: gitea.ewpt3ch.dev/ewpt3ch/resume
+      repo: ewpt3ch/resume
       tags: 
         - latest
         - ${CI_COMMIT_SHA:0:8}
