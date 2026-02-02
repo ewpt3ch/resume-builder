@@ -24,10 +24,11 @@ ENV UV_NO_DEV=1
 # ensure tools are on path
 ENV UV_TOOL_BIN_DIR=/usr/local/bin
 
+# copy dependency files first for layer caching
+COPY pyproject.toml uv.lock ./
+
 # Install project's dependencies
 RUN --mount=type=cache,target=/root/.cache/uv \
-    --mount=type=bind,source=uv.lock,target=uv.lock \
-    --mount=type=bind,source=pyproject.toml,target=pyproject.toml \
     uv sync --locked --no-install-project
 
 
