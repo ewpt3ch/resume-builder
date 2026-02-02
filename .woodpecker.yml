@@ -26,11 +26,3 @@ steps:
     commands:
       - python src/main.py
 
-  - name: deploy
-    image: apline
-    commands:
-      - mkdir -p /woodpecker/artifacts
-      - cp -r /app/publish/* /woodpecker/artifacts
-    volumes:
-      - /tmp/woodpecker-artifacts:/woodpecker/artifacts
-
