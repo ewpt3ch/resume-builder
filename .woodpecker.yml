@@ -1,0 +1,16 @@
+when:
+  - event: push
+    branch: main
+
+steps:
+  - name: build-image
+    image: woodpeckerci/plugin-docker-buildx
+    settings:
+      repo: gitea.ewpt3ch.dev/ewpt3ch/resume
+      tags: latest
+
+  - name: build-docs
+    image: gitea.ewpt3ch.dev/ewpt3ch/resume:latest
+    commands:
+      - python src/main.py
+
