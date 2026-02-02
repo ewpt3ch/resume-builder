@@ -25,6 +25,7 @@ steps:
     pull: true
     commands:
       - python src/main.py
+      - cp publish/resume.* ./
 
   - name: deploy
     image: appleboy/drone-scp
@@ -35,6 +36,6 @@ steps:
         from_secret: ssh_deploy_key
       port: 25213
       target: /home/httpcd/resume
-      source: /publish/*
+      source: /resume.*
       strip_components: 1
       rm: false
