@@ -12,6 +12,7 @@ Objective or Summary: take skills list and key words (results driven, finacialy 
 Use my data analysis skills that I obtained at Open University in a professional environment to support the growth of your business
 Apply my business process developement skills to an IT environment and help devops be a culture in your company.
 
+change some stuff for deploy test
 
 Summary
 -------
