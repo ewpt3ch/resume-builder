@@ -4,7 +4,7 @@ when:
 
 steps:
   - name: build-image
-    image: gcr.io/kaniko-project/executor:latest
+    image: woodpeckerci/plugin-kaniko
     settings:
       registry: gitea.ewpt3ch.dev
       repo: gitea.ewpt3ch.dev/ewpt3ch/resume
