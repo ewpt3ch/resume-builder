@@ -18,7 +18,7 @@ steps:
       password:
         from_secret: gitea_password
       cache: true
-      cache_repo: gitea.ewpt3ch.dev/ewpt3ch/resume-cache
+      cache_repo: ewpt3ch/resume-cache
 
   - name: build-docs
     image: gitea.ewpt3ch.dev/ewpt3ch/resume:latest
