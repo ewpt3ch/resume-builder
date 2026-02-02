@@ -25,7 +25,7 @@ steps:
     pull: true
     commands:
       - python src/main.py
-      - cp publish/resume.* /
+      - sudo cp publish/resume.* /
 
   - name: deploy
     image: appleboy/drone-scp
