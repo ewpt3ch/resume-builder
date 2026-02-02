@@ -4,13 +4,33 @@ when:
 
 steps:
   - name: build-image
-    image: woodpeckerci/plugin-docker-buildx
+    image: gcr.io/kaniko-project/executor:latest
     settings:
+      registry: gitea.ewpt3ch.dev
       repo: gitea.ewpt3ch.dev/ewpt3ch/resume
-      tags: latest
+      tags: 
+        - latest
+        - ${CI_COMMIT_SHA:0:8}
+      dockerfile: Dockerfile
+      context: .
+      username:
+        from_secret: gitea_username
+      password:
+        from_secret: gitea_password
+      cache: true
+      cache_repo: gitea.ewpt3ch.dev/ewpt3ch/resume-cache
 
   - name: build-docs
     image: gitea.ewpt3ch.dev/ewpt3ch/resume:latest
+    pull: true
     commands:
       - python src/main.py
+
+  - name: deploy
+    image: apline
+    commands:
+      - mkdir -p /woodpecker/artifacts
+      - cp -r /app/publish/* /woodpecker/artifacts
+    volumes:
+      - /tmp/woodpecker-artifacts:/woodpecker/artifacts
 
