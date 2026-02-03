@@ -15,3 +15,5 @@ Resume(s) are written in [markdown](https://www.markdownguide.org/) and stored i
 - or the message [ALL] is in a commit
 it outputs html and pdf files that get published at www.ewpt3ch.dev/resume.
 
+test [ALL] functionality
+
