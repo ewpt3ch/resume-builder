@@ -39,3 +39,6 @@ steps:
       source: ./resume.*
       strip_components: 1
       rm: false
+      commands:
+        - ls -la
+        - ls publish -la
