@@ -8,16 +8,10 @@
   </table>
 </div>
 
-<div id="objective">
-  <h3>Objective</h3>
-
-Use my data analysis skills that I obtained at Open University in a professional environment to support the growth of your business.
-</div>
-
 <div id="summary">
-<h3>Summary</h3>
+<h3>Professional Summary</h3>
 
-Highly motivated self starter that excels at finding organization in chaos. Used to all aspects of problem solving: defining, subdividing, and implementing solutions. Knows how to be quick at implementing solutions and iterating to find efficiencies.
+Technical professional with 20+ years of business ownership and operations experience, combining formal data analysis education with hands-on expertise in software development, systems administration, and business intelligence. Proven track record of building analytical tools and automation solutions that drive measurable business results. Excel at identifying inefficiencies, designing practical solutions, and implementing technology that solves real-world problems.
 </div>
 
 <div id="experience">
