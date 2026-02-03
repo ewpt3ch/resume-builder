@@ -2,7 +2,7 @@ when:
   - event: push
     branch: main
     path:
-      include: ['markdown/*', 'src/*']
+      include: ['markdown/*', 'src/*', 'templates/*']
       ignore_message: '[ALL]'
 
 steps:
