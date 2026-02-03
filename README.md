@@ -1,4 +1,4 @@
-Resume [![status-badge](https://woodpecker.ewpt3ch.dev/api/badges/2/status.svg)](https://woodpecker.ewpt3ch,dev/repos/2)
+Resume [![status-badge](https://woodpecker.ewpt3ch.dev/api/badges/2/status.svg)](https://woodpecker.ewpt3ch.dev/repos/2)
 
 # Resume builder
 
