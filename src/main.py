@@ -2,7 +2,9 @@ from pathlib import Path
 
 from mdtohtml import mdtohtml
 from htmltopdf import htmltopdf
+from jinja2 import Environment, FileSystemLoader
 
+j2_env = Environment(loader=FileSystemLoader('templates'))
 
 srcdir = Path("markdown")
 destdir = Path("publish")
@@ -17,33 +19,38 @@ def main():
     if not srcdir.is_dir():
         return f'Error: "{srcdir}" is not a directory or does not exist'
     filelist = list(srcdir.glob('*.md'))
-    htmlfiles = []
 
     # mk destdir if not exist
     if not destdir.is_dir():
         destdir.mkdir()
 
-    # process through mdtohtml
+    # process filelist
     for infile in filelist:
+        # create filenames
         outfile = destdir / infile.name
         outfile = outfile.with_suffix(".html")
-        htmlfiles.append(outfile)
-        print(f"processing '{infile}' to '{outfile}'")
+        outfilepdf = outfile.with_suffix(".pdf")
+
+        # md -> html
+        print(f"processing '{infile}' to html")
         with infile.open(mode='r', encoding='utf-8') as f:
             mdsrc = f.read()
-            html = mdtohtml(mdsrc)
+        rawhtml = mdtohtml(mdsrc)
+
+        # html -> resume.template
+        print("processing rawhtml through resume.template")
+        template = j2_env.get_template('resume.template')
+        pdfhtml = template.render(content=rawhtml, download="")
+
+        print(f"processing html to '{outfilepdf}'")
+        htmltopdf(pdfhtml, outfilepdf)
+
+        print(f"processing pdfhtml to '{outfile}'")
+        download_template = j2_env.get_template('download.template')
+        download_bar = download_template.render(pdffile=outfilepdf.name)
+        pubhtml = template.render(content=rawhtml, download=download_bar)
         with outfile.open(mode='w', encoding='utf-8') as f:
-            f.write(html)
-
-    # process html to pdf
-    for infile in htmlfiles:
-        outfile = destdir / infile.name
-        outfile = outfile.with_suffix(".pdf")
-        print(f"processing '{infile}' to '{outfile}'")
-        with infile.open(mode='r', encoding='utf-8') as f:
-            htmlsrc = f.read()
-        htmltopdf(htmlsrc, outfile)
-
+            f.write(pubhtml)
 
 if __name__ == "__main__":
     main()
