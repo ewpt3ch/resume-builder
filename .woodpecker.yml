@@ -1,6 +1,9 @@
 when:
   - event: push
     branch: main
+    path:
+      include: ['markdown/*', 'src/*']
+      ignore_message: '[ALL]'
 
 steps:
   - name: build-image
