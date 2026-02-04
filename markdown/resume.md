@@ -9,7 +9,7 @@
 </div>
 
 <div id="summary">
-<h3>Professional Summary</h3>
+<h3>Professional Summary According to Josie</h3>
 
 Technical professional with 20+ years of business ownership and operations experience, combining formal data analysis education with hands-on expertise in software development, systems administration, and business intelligence. Proven track record of building analytical tools and automation solutions that drive measurable business results. Excel at identifying inefficiencies, designing practical solutions, and implementing technology that solves real-world problems.
 </div>
