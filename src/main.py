@@ -1,13 +1,15 @@
 from pathlib import Path
 
-from mdtohtml import mdtohtml
-from htmltopdf import htmltopdf
 from jinja2 import Environment, FileSystemLoader
 
-j2_env = Environment(loader=FileSystemLoader('templates'))
+from htmltopdf import htmltopdf
+from mdtohtml import mdtohtml
+
+j2_env = Environment(loader=FileSystemLoader("templates"))
 
 srcdir = Path("markdown")
 destdir = Path("publish")
+
 
 def main():
     print("Hello from resume!")
@@ -18,7 +20,7 @@ def main():
     # get the files
     if not srcdir.is_dir():
         return f'Error: "{srcdir}" is not a directory or does not exist'
-    filelist = list(srcdir.glob('*.md'))
+    filelist = list(srcdir.glob("*.md"))
 
     # mk destdir if not exist
     if not destdir.is_dir():
@@ -33,24 +35,25 @@ def main():
 
         # md -> html
         print(f"processing '{infile}' to html")
-        with infile.open(mode='r', encoding='utf-8') as f:
+        with infile.open(mode="r", encoding="utf-8") as f:
             mdsrc = f.read()
         rawhtml = mdtohtml(mdsrc)
 
         # html -> resume.template
         print("processing rawhtml through resume.template")
-        template = j2_env.get_template('resume.template')
+        template = j2_env.get_template("resume.template")
         pdfhtml = template.render(content=rawhtml, download="")
 
         print(f"processing html to '{outfilepdf}'")
         htmltopdf(pdfhtml, outfilepdf)
 
         print(f"processing pdfhtml to '{outfile}'")
-        download_template = j2_env.get_template('download.template')
+        download_template = j2_env.get_template("download.template")
         download_bar = download_template.render(pdffile=outfilepdf.name)
         pubhtml = template.render(content=rawhtml, download=download_bar)
-        with outfile.open(mode='w', encoding='utf-8') as f:
+        with outfile.open(mode="w", encoding="utf-8") as f:
             f.write(pubhtml)
+
 
 if __name__ == "__main__":
     main()
