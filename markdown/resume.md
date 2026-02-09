@@ -20,9 +20,9 @@ Technical professional with 20+ years of business ownership and operations exper
 <div class="job-entry">
   <table id="experience-table">
     <tr>
-      <td style="text-align: left">IT, Data Analyst, Driver Trainer<br>Management Team</td>
-      <td style="text-align: center"><b>JBL Logistics INC</b><br>Broomfield, CO, USA</td>
-      <td style="text-align: right">Sep 2019 - Nov 2025</td>
+      <td>IT, Data Analyst, Driver Trainer<br>Management Team</td>
+      <td><b>JBL Logistics INC</b><br>Broomfield, CO, USA</td>
+      <td>Sep 2019 - Nov 2025</td>
     </tr>
   </table>
 
@@ -40,9 +40,9 @@ Responsibilities included:
 <div class="job-entry">
   <table id="experience-table">
     <tr>
-      <td style="text-align: left">Owner</td>
-      <td style="text-align: center"><b>P R Delivery INC</b><br>Broomfield, CO, USA</td>
-      <td style="text-align: right"> 2016 - 2019</td>
+      <td>Owner</td>
+      <td><b>P R Delivery INC</b><br>Broomfield, CO, USA</td>
+      <td> 2016 - 2019</td>
     </tr>
   </table>
 
@@ -57,9 +57,9 @@ Tranportation company servicing FedEX Ground Contract
 <div class="job-entry">
   <table id="experience-table">
     <tr>
-      <td style="text-align: left">Owner</td>
-      <td style="text-align: center"><b>My Small Business Company, INC</b><br>Westminster, CO, USA</td>
-      <td style="text-align: right">2002 - 2016</td>
+      <td>Owner</td>
+      <td><b>My Small Business Company, INC</b><br>Westminster, CO, USA</td>
+      <td>2002 - 2016</td>
     </tr>
   </table>
 
