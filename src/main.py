@@ -9,6 +9,7 @@ j2_env = Environment(loader=FileSystemLoader("templates"))
 
 srcdir = Path("markdown")
 destdir = Path("publish")
+name = "Eric W Phillips - Resume"
 
 
 def main():
@@ -42,7 +43,7 @@ def main():
         # html -> resume.template
         print("processing rawhtml through resume.template")
         template = j2_env.get_template("resume.template")
-        pdfhtml = template.render(content=rawhtml, download="")
+        pdfhtml = template.render(name=name, content=rawhtml, download="")
 
         print(f"processing html to '{outfilepdf}'")
         htmltopdf(pdfhtml, outfilepdf)
