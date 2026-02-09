@@ -16,6 +16,8 @@ Technical professional with 20+ years of business ownership and operations exper
 
 <div id="experience">
 <h3>Work Experience</h3>
+
+<div class="job-entry">
   <table id="experience-table">
     <tr>
       <td style="text-align: left">IT, Data Analyst, Driver Trainer<br>Management Team</td>
@@ -33,7 +35,9 @@ Responsibilities included:
 - Upkeep and redesign of Excel payroll tools.
 - Train new employees on business software and business objectives and requirements.
 - Do deliveries as required.
+</div>
 
+<div class="job-entry">
   <table id="experience-table">
     <tr>
       <td style="text-align: left">Owner</td>
@@ -48,7 +52,9 @@ Tranportation company servicing FedEX Ground Contract
 - Developed a revenue analysis tool to project income and expenses using python and Google Sheets to aid in negotiating rates with FedEX.
 - Navigated company through an unexpected material change in routing method that included a deployment of iPads to all vehicles. The deployment consisted of enrolling devices in MDM, obtaining license to routing software, testing the deployment, and training of staff over a 2 week time frame.
 - Sold the company in 2019.
+</div>
 
+<div class="job-entry">
   <table id="experience-table">
     <tr>
       <td style="text-align: left">Owner</td>
@@ -63,6 +69,7 @@ Tranportation company servicing FedEX Ground Contract
 - Developed Payroll and financial analysis systems using python and Google Sheets.
 - Created training systems that met DOT guidelines.
 - I successfully grew the company to 3 full time drivers and then merged it with P R Delivery INC.
+</div>
 </div>
 
 <div id="education">
