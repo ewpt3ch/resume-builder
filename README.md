@@ -21,3 +21,4 @@ it outputs html and pdf files that get published at www.ewpt3ch.dev/resume.
 - replace the content in markdown folder with you own
 - replace 'name' in main.py, or import it somehow
 - edit .woodpecker.yml or create github actions etc to build and publish at you domain.
+- This doesn't have to be exclusively used for a resume, any text document that one wants to store in markdown format, in a revision control system, and published to a website with html and pdf, or without pdf, could use this.
