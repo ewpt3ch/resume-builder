@@ -5,8 +5,8 @@ Resume [![status-badge](https://woodpecker.ewpt3ch.dev/api/badges/2/status.svg)]
 ### TODO
 
 - ~limit rebuild to changes in markdown folder~
-~ - get resume.html with all relevant info ~
-~ - create link to download pdf ~
+~ - get resume.html with all relevant info~
+~ - create link to download pdf~
 - create sub resumes for different roles(dev, data science, sysops) with links to the relevant html and pdf for specific job applications.
 
 ### How it works
