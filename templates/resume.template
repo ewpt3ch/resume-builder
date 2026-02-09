@@ -64,25 +64,49 @@
       margin-top: 0;
     }
 
-    /* experience tables */
-    #exprience-table,
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 6pt 0;
+    .job-entry {
+      margin-bottom: 12pt;
+      page-break-inside: avoid;
     }
 
-    #exprience-table td,
-    table td {
+    .job-entry:last-child {
+      margin-bottom: 0;
+    }
+
+    /* experience tables */
+    #exprience-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 0 0 4pt 0;
+      table-layout: fixed;
+    }
+
+    #exprience-table td {
       vertical-align: top;
       font-size: 10pt;
       padding: 0;
       border: none;
     }
 
+    #experience-table td:first-child {
+      width: 33%;
+      text-align: left;
+    }
+
+    #experience-table td:nth-child(2) {
+      width: 34%;
+      text-align: center;
+    }
+
+    #experience-table td:last-child {
+      width: 33%;
+      text-align: right;
+    }
+
     #experience-table b,
     table b {
       font-weight: bold;
+      font-size: 10pt;
     }
 
     /* paragraphs */
